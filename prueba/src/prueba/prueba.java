@@ -6,6 +6,7 @@ public class prueba {
 
 
 		System.out.println("Hoal1");
+		System.out.println("Hola2");
 
 	}
 
